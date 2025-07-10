@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.vivekaloop.com"
+        }
+      ],
+      "destination": "https://vivekaloop.com",
+      "permanent": true
+    }
+  ]
+}
